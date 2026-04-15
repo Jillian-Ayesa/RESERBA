@@ -21,8 +21,58 @@
 </div>
  
 ## ➰ | Features
-1. <strong>Clubs (♣)</strong>. Test your strategic skill in team-based or cooperative challenges.
-2. <strong>Diamonds (♦)</strong>. Prove your logical thinking and wit in battles of intellect.
-3. <strong>Hearts (♥)</strong>. Endure the test of psychological strength where you play with the hearts of others.
-4. <strong>Spades (♠)</strong>. Survive through decisive action and physical challenges.
-5. Game Loop.  Succeed in a game, and you are granted the card. Fail, and you lose one Visa. Lose your last Visa, and the game takes everything.
+1. <strong>
+2. <strong>
+3. <strong>
+4. <strong>
+5. <strong>
+
+
+## 🤝 | Contributors
+<table>
+<tr>
+    <th> &nbsp; </th>
+    <th> Name </th>
+    <th> Role </th>
+</tr>
+ <tr>
+    <td><img src="static/SofhiaAubrey.jpg" width="150" height="150"> </td>
+    <td><strong>Sofhia Aubrey M. Asilo</strong> <br/>
+    <a href="https://github.com/asilo-sofhia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Sofhia's GitHub">
+        </a>
+    </td>
+    <td><strong>UI / UX</strong></td>
+</tr>
+<tr>
+    <td><img src="static/JohnVincent.jpg" width="150" height="180"> </td>
+    <td><strong>John Vincent M. Doria</strong> <br/>
+    <a href="https://github.com/JVinceent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="Vincent's GitHub">
+        </a>
+    </td>
+    <td><strong>Backend Developer</strong></td>
+</tr>
+<tr>
+    <td><img src="static/Nicko.jpg" width="150" height="150"> </td>
+    <td><strong>Nicko S. Palicpic</strong> <br/>
+    <a href="https://github.com/nickopalicpic" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=darkgreen" alt="Nicko's GitHub">
+        </a>
+    </td>
+    <td><strong>QA Tester</strong></td>
+</tr>
+<tr>
+    <td><img src="static/JillianAyesa.jpg" width="150" height="150"> </td>
+    <td><strong>Jillian Ayesa T. Salem</strong> <br/>
+    <a href="https://github.com/Jillian-Ayesa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=purple" alt="Jillian's GitHub">
+        </a>
+    </td>
+    <td><strong>Project Manager</strong></td>
+</tr>
+</table>
+
+ 
+### 🫂 | Acknowledgment
+We truly thank our instructor for all of the help and support we received in finishing this project.  We also thank our peers and classmates for their support and cooperation during the developing process.
