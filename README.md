@@ -4,7 +4,6 @@
 <BR><strong>Your Real - Time Entry System for Efficient Routing, Billing, and Access</strong> 
 <BR><strong>Mapping your way to the perfect spot</strong><BR>
 
-
 <BR><img width="100" height="100"  />
 
 <BR> **CS 2203** <BR>
@@ -19,14 +18,81 @@
 <div align = "justify">
 <strong>RESERBA</strong> is a centralized parking management system that streamlines operations to enhance facility performance while removing the challenging process of parking space search that involves unpredictable space location. The parking facility staff uses the real-time admin dashboard to obtain complete structural information about available parking spaces throughout the entire building. The centralized system enables parking facilitators to provide vehicle parking assignments immediately when cars arrive at entry points. The drivers receive precise parking information which helps them park their vehicles before they enter the building, thus reducing internal traffic flow while providing an efficient parking system that starts from the entrance point.
 </div>
- 
+
+## 🎯 | Purpose
+<div align = "justify">
+</div>
+
+## 🗺️ | UML Diagram
+
+## 📊 | ERD Diagram
+
 ## ➰ | Features
+<div align = "justify">
 1. <strong>
 2. <strong>
 3. <strong>
 4. <strong>
 5. <strong>
+</div>
 
+## 🧩 | Project Structure
+```
+📂 src/
+└── 📂 RESERBA/
+    ├── #️⃣ Main.cs         
+    ├── #️⃣ Core.cs
+    └── #️⃣ Person.cs
+    └── 📂 Core/
+    |   ├── #️⃣ Console.cs
+    |   ├── #️⃣ Game.cs
+    |   ├── #️⃣ Graphics.cs
+    └── 📂 Person/
+        ├── #️⃣ GamesOfClubs.cs
+        ├── #️⃣ GameOfDiamonds.cs
+        ├── #️⃣ GameOfHearts.cs
+        └──  #️⃣ GameOfSpades.cs
+```
+- `RESERBA` - The main package for the simulation.
+-  `Main.cs` - Contains the entry point and game loop logic.
+-  `Player` - Handles player attributes, survival status, and inventory.
+
+## ⚙️ | How The Program Works
+
+## 🏃‍♀️ | How To Run The Program
+Open your terminal in the `src/` folder and run:
+```
+
+```
+Run the program using:
+```
+
+```
+
+## ✅ | Sample Output
+```
+```
+
+## 💻 | Object - Oriented Principles
+### 🎁 Encapsulation
+<div align = "justify">
+</div>
+
+### 🧬 Inheritance
+<div align = "justify">
+</div>
+
+### 🪄 Abstraction
+<div align = "justify">
+</div>
+
+### 🎭 Polymorphism
+<div align = "justify">
+</div>
+
+## ✨ | Future Enhancements
+<div align = "justify">
+</div>
 
 ## 🤝 | Contributors
 <table>
@@ -73,6 +139,12 @@
 </tr>
 </table>
 
+## 📚 | References
+<div align = "justify">
+</div>
+
  
 ### 🫂 | Acknowledgment
+<div align = "justify">
 We truly thank our instructor for all of the help and support we received in finishing this project.  We also thank our peers and classmates for their support and cooperation during the developing process.
+</div>
