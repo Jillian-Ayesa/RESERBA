@@ -140,7 +140,7 @@
             BtnAdmin.ShadowDecoration.CustomizableEdges = customizableEdges6;
             BtnAdmin.Size = new Size(272, 41);
             BtnAdmin.TabIndex = 2;
-            BtnAdmin.Text = "ADMIN";
+            BtnAdmin.Text = "ADMINice";
             BtnAdmin.Click += BtnAdmin_Click;
             // 
             // pictureBox1
