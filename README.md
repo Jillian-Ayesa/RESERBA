@@ -21,9 +21,12 @@
 
 ## 🎯 | Purpose
 <div align = "justify">
+The main goal of <strong>RESERBA</strong> is to completely eliminate the hassle of searching for an open parking spot by immediately directing drivers where to go. Instead of having cars drive around aimlessly, the system assigns a specific parking space right as a vehicle enters, which really helps reduce congestion and keeps the entrance line moving. It pulls this off using a real-time visual map that shows facilitators exactly which spots are open in green and which are taken in red. Plus, to make leaving just as easy, it includes a vehicle locator tool that pinpoints the car's exact slot, saving drivers the stress of trying to remember where they parked in a large facility.
 </div>
 
 ## 🗺️ | UML Diagram
+
+<td><img src="static/UML.png" width="1500" height="1500"> </td>
 
 ## 📊 | ERD Diagram
 
