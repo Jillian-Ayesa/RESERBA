@@ -65,11 +65,11 @@ The main goal of <strong>RESERBA</strong> is to completely eliminate the hassle 
 ## 🏃‍♀️ | How To Run The Program
 Open your terminal in the `src/` folder and run:
 ```
-
+csc ProjectAyesa/main/*.cs
 ```
 Run the program using:
 ```
-
+Main.exe
 ```
 
 ## ✅ | Sample Output
