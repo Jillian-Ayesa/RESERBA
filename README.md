@@ -4,8 +4,6 @@
 <BR><strong>Your Real - Time Entry System for Efficient Routing, Billing, and Access</strong> 
 <BR><strong>Mapping your way to the perfect spot</strong><BR>
 
-<BR><img width="100" height="100"  />
-
 <BR> **CS 2203** <BR>
 **Asilo, Sofhia Aubrey M.** <BR>
 **Doria, John Vincent M.** <BR>
