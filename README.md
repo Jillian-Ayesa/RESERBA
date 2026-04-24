@@ -61,14 +61,24 @@ The main goal of <strong>RESERBA</strong> is to completely eliminate the hassle 
 ## ⚙️ | How The Program Works
 
 ## 🏃‍♀️ | How To Run The Program
-Open your terminal in the `src/` folder and run:
-```
-csc ProjectAyesa/main/*.cs
-```
-Run the program using:
-```
-Main.exe
-```
+
+1. Clone the repository
+2. Open `RESERBA Proj/RESERBA Proj.csproj` in Visual Studio
+3. Update the database password in `DatabaseHelper.cs` (see Setup Instructions)
+4. Press `F5` or click **Start** to run
+
+## ⚙️ | Setup Instructions
+
+### Database Configuration
+This project connects to a MySQL database hosted on Aiven Cloud.
+
+After cloning the repository, you need to update the connection string:
+
+1. Open `RESERBA Proj/Database/DatabaseHelper.cs`
+2. Find line 12 and replace `YOUR_PASSWORD_HERE` with the actual database password
+3. Contact the project owner for the actual password
+
+> ⚠️ Never commit the real password to GitHub.
 
 ## ✅ | Sample Output
 ```
