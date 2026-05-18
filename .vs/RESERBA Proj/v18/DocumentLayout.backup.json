@@ -1,0 +1,1094 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\controls\\estimateddetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\estimateddetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\davip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\davip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bamap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bamap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\payment\\eapaymentnowvipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowvipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bbmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bbmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\abdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\abdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\controls\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\database\\guardrepository\\guardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:database\\guardrepository\\guardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\database\\guardrepository\\adminguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:database\\guardrepository\\adminguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\controls\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\controls\\estimatedduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\estimatedduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\controls\\estimateddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\estimateddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\controls\\estimateddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:controls\\estimateddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\models\\parkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:models\\parkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\admin\\abdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\abdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\database\\guardrepository\\iguardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:database\\guardrepository\\iguardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\admin\\aadmin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\admin\\aadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\admin\\aadmin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\map\\bbmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bbmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bamap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bamap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\map\\bamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\payment\\eapayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bdmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bdmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bcmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bcmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\map\\bcmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bcmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\map\\bamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\abdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\abdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\models\\standardsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:models\\standardsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\models\\discountedsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:models\\discountedsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\models\\valetsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:models\\valetsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\reserba proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:reserba proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\user\\ab_user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\startup\\aaastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\startup\\aaastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\startup\\aaastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\startup\\aaastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\startup\\aabstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\startup\\aabstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\startup\\aabstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\startup\\aabstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapaymentnowvipb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowvipb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapaymentnowb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\payment\\eapaymentnowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapaymentnowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapaymentlater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentlater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\map\\bdmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\map\\bdmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\admin\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\admin\\aadmin1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\admin\\aadmin1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\user\\ab_user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|c:\\users\\john vincent doria\\downloads\\reserbaaabaaa\\reserba_updatest\\reserba\\forms\\user\\ab_user1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\user\\ab_user1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\forms\\payment\\eapaymentnowvipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BB213F-5268-3150-A699-52C9FFD698A2}|RESERBA Proj.csproj|solutionrelative:forms\\payment\\eapaymentnowvipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstimatedDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.Designer.cs",
+              "RelativeDocumentMoniker": "Controls\\EstimatedDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.Designer.cs",
+              "RelativeToolTip": "Controls\\EstimatedDetails.Designer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAAPgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:08:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAVIP.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\DAVIP.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\DAVIP.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\DAVIP.cs",
+              "RelativeToolTip": "Forms\\User\\DAVIP.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BAMap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BAMap.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.Designer.cs",
+              "RelativeToolTip": "Forms\\Map\\BAMap.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AB_User5.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User5.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User5.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User5.cs",
+              "RelativeToolTip": "Forms\\User\\AB_User5.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAuwJoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AAdmin3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin3.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin3.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AB_User1.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User1.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.cs",
+              "RelativeToolTip": "Forms\\User\\AB_User1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:33.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AB_User2.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User2.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.cs",
+              "RelativeToolTip": "Forms\\User\\AB_User2.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAEkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AB_User2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User2.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.Designer.cs",
+              "RelativeToolTip": "Forms\\User\\AB_User2.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:46:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AB_User1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User1.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.Designer.cs",
+              "RelativeToolTip": "Forms\\User\\AB_User1.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAIIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:03:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EAPaymentNowVIPA.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:44:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ABDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ABDashboard.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.cs",
+              "RelativeToolTip": "Forms\\Admin\\ABDashboard.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwIMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:22:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlotButton.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\SlotButton.cs",
+              "RelativeDocumentMoniker": "Controls\\SlotButton.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\SlotButton.cs",
+              "RelativeToolTip": "Controls\\SlotButton.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:06:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GuardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\GuardRepository.cs",
+              "RelativeDocumentMoniker": "Database\\GuardRepository\\GuardRepository.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\GuardRepository.cs",
+              "RelativeToolTip": "Database\\GuardRepository\\GuardRepository.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwLAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:11:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AAdmin1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin1.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin1.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:03:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminGuard.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\AdminGuard.cs",
+              "RelativeDocumentMoniker": "Database\\GuardRepository\\AdminGuard.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\AdminGuard.cs",
+              "RelativeToolTip": "Database\\GuardRepository\\AdminGuard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:46:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SlotButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\SlotButton.cs",
+              "RelativeDocumentMoniker": "Controls\\SlotButton.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\SlotButton.cs [Design]",
+              "RelativeToolTip": "Controls\\SlotButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:06:24.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BBMap.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BBMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BBMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BBMap.cs",
+              "RelativeToolTip": "Forms\\Map\\BBMap.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv+wAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:00.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EstimatedDuration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDuration.cs",
+              "RelativeDocumentMoniker": "Controls\\EstimatedDuration.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDuration.cs [Design]",
+              "RelativeToolTip": "Controls\\EstimatedDuration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:06:21.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ParkingSession.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\ParkingSession.cs",
+              "RelativeDocumentMoniker": "Models\\ParkingSession.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\ParkingSession.cs",
+              "RelativeToolTip": "Models\\ParkingSession.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:11:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ABDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ABDashboard.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\ABDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:22:52.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGuardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\IGuardRepository.cs",
+              "RelativeDocumentMoniker": "Database\\GuardRepository\\IGuardRepository.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\GuardRepository\\IGuardRepository.cs",
+              "RelativeToolTip": "Database\\GuardRepository\\IGuardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:11:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EstimatedDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.cs",
+              "RelativeDocumentMoniker": "Controls\\EstimatedDetails.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.cs [Design]",
+              "RelativeToolTip": "Controls\\EstimatedDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:07:19.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EstimatedDetails.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.cs",
+              "RelativeDocumentMoniker": "Controls\\EstimatedDetails.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Controls\\EstimatedDetails.cs",
+              "RelativeToolTip": "Controls\\EstimatedDetails.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:07:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AAdmin3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin3.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:14:42.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AAdmin2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin2.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:04:32.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AAdmin1.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin1.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:29:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AAdmin1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin1.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:38:29.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BBMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BBMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BBMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BBMap.cs [Design]",
+              "RelativeToolTip": "Forms\\Map\\BBMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:04:26.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BAMap.resx",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.resx",
+              "RelativeDocumentMoniker": "Forms\\Map\\BAMap.resx",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.resx",
+              "RelativeToolTip": "Forms\\Map\\BAMap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-18T11:52:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BAMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BAMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.cs [Design]",
+              "RelativeToolTip": "Forms\\Map\\BAMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:38:25.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EAPayment.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPayment.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPayment.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPayment.cs",
+              "RelativeToolTip": "Forms\\Payment\\EAPayment.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:26:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BCMap.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BCMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BCMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BCMap.cs",
+              "RelativeToolTip": "Forms\\Map\\BCMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BCMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BCMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BCMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BCMap.cs [Design]",
+              "RelativeToolTip": "Forms\\Map\\BCMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:34.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EAPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPayment.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPayment.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPayment.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:03:08.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BDMaps.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BDMaps.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BDMaps.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BDMaps.cs",
+              "RelativeToolTip": "Forms\\Map\\BDMaps.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BAMap.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BAMap.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BAMap.cs",
+              "RelativeToolTip": "Forms\\Map\\BAMap.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:38:43.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ABDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ABDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ABDashboard.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\ABDashboard.Designer.cs",
+              "ViewState": "AgIAAL0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:26:09.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AAdmin3.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin3.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin3.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin3.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:22:37.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AAdmin2.resx",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.resx",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin2.resx",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.resx",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-18T11:25:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AAdmin2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin2.Designer.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:25:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AAdmin2.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin2.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin2.cs",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin2.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:04:38.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:16:19.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ValetSession.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\ValetSession.cs",
+              "RelativeDocumentMoniker": "Models\\ValetSession.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\ValetSession.cs",
+              "RelativeToolTip": "Models\\ValetSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:12:25.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:13:28.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StandardSession.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\StandardSession.cs",
+              "RelativeDocumentMoniker": "Models\\StandardSession.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\StandardSession.cs",
+              "RelativeToolTip": "Models\\StandardSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:11:43.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DiscountedSession.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\DiscountedSession.cs",
+              "RelativeDocumentMoniker": "Models\\DiscountedSession.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Models\\DiscountedSession.cs",
+              "RelativeToolTip": "Models\\DiscountedSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:11:28.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AB_User2.resx",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.resx",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User2.resx",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.resx",
+              "RelativeToolTip": "Forms\\User\\AB_User2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-11T04:46:35.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RESERBA Proj.csproj",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\RESERBA Proj.csproj",
+              "RelativeDocumentMoniker": "RESERBA Proj.csproj",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\RESERBA Proj.csproj",
+              "RelativeToolTip": "RESERBA Proj.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T23:03:01.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AAAStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AAAStart.cs",
+              "RelativeDocumentMoniker": "Forms\\Startup\\AAAStart.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AAAStart.cs [Design]",
+              "RelativeToolTip": "Forms\\Startup\\AAAStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:30:50.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AAAStart.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AAAStart.cs",
+              "RelativeDocumentMoniker": "Forms\\Startup\\AAAStart.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AAAStart.cs",
+              "RelativeToolTip": "Forms\\Startup\\AAAStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:30:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AB_User2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User2.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User2.cs [Design]",
+              "RelativeToolTip": "Forms\\User\\AB_User2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:46:36.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AABStart.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AABStart.cs",
+              "RelativeDocumentMoniker": "Forms\\Startup\\AABStart.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AABStart.cs",
+              "RelativeToolTip": "Forms\\Startup\\AABStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:28:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AABStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AABStart.cs",
+              "RelativeDocumentMoniker": "Forms\\Startup\\AABStart.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Startup\\AABStart.cs [Design]",
+              "RelativeToolTip": "Forms\\Startup\\AABStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:27:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EAPaymentNowVIPB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPB.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowVIPB.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPB.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowVIPB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:27:26.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EAPaymentNowB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowB.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowB.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowB.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:26:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EAPaymentNowA.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowA.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowA.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowA.cs",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowA.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:26:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EAPaymentNowA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowA.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowA.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowA.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:26:50.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EAPaymentLater.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentLater.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentLater.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentLater.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentLater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:26:49.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BDMaps.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BDMaps.cs",
+              "RelativeDocumentMoniker": "Forms\\Map\\BDMaps.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Map\\BDMaps.cs [Design]",
+              "RelativeToolTip": "Forms\\Map\\BDMaps.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:55.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ADashboard.cs",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ADashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ADashboard.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ADashboard.cs",
+              "RelativeToolTip": "Forms\\Admin\\ADashboard.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:24:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ADashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ADashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ADashboard.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\ADashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\ADashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:24:06.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AAdmin1.resx",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.resx",
+              "RelativeDocumentMoniker": "Forms\\Admin\\AAdmin1.resx",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Admin\\AAdmin1.resx",
+              "RelativeToolTip": "Forms\\Admin\\AAdmin1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-10T23:03:01.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AB_User1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.cs",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User1.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.cs [Design]",
+              "RelativeToolTip": "Forms\\User\\AB_User1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:03:01.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AB_User1.resx",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.resx",
+              "RelativeDocumentMoniker": "Forms\\User\\AB_User1.resx",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\User\\AB_User1.resx",
+              "RelativeToolTip": "Forms\\User\\AB_User1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-10T23:03:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EAPaymentNowVIPA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "RelativeDocumentMoniker": "Forms\\Payment\\EAPaymentNowVIPA.cs",
+              "ToolTip": "C:\\Users\\John Vincent Doria\\Downloads\\RESERBAAABAAA\\RESERBA_Updatest\\RESERBA\\Forms\\Payment\\EAPaymentNowVIPA.cs [Design]",
+              "RelativeToolTip": "Forms\\Payment\\EAPaymentNowVIPA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:44:44.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>RESERBA_Proj</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>RESERBA_Proj.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assets\**" />
+    <EmbeddedResource Remove="Assets\**" />
+    <None Remove="Assets\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <WrapperTool>aximp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.7" />
+    <PackageReference Include="MySql.Data" Version="9.7.0" />
+  </ItemGroup>
+
+  <!--
+    ═══════════════════════════════════════════════════════════════
+    COMPILE — UserControls need explicit SubType metadata.
+    The SDK auto-discovers all .cs files in subfolders, so only
+    files requiring extra metadata are listed here.
+    ═══════════════════════════════════════════════════════════════
+  -->
+  <ItemGroup>
+    <!-- Controls/  — reusable UserControls -->
+    <Compile Update="Controls\EstimatedDuration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\SlotButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+
+    <!-- Properties/ — auto-generated resource file -->
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <!--
+    ═══════════════════════════════════════════════════════════════
+    EMBEDDED RESOURCES
+    ═══════════════════════════════════════════════════════════════
+  -->
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <!--
+    ═══════════════════════════════════════════════════════════════
+    FONTS — copied to output directory on build
+    ═══════════════════════════════════════════════════════════════
+  -->
+  <ItemGroup>
+    <Content Include="Fonts\Rounded.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Fonts\AribauRoundedTrial-Regular.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Fonts\AribauRoundedTrial-Bold.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <!--
+    ═══════════════════════════════════════════════════════════════
+    VIDEOS — always copied to output directory on build
+    ═══════════════════════════════════════════════════════════════
+  -->
+  <ItemGroup>
+    <None Update="Videos\RESERBA.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!--
+    ═══════════════════════════════════════════════════════════════
+    ASSETS / IMAGES — copied to output directory on build
+    ═══════════════════════════════════════════════════════════════
+  -->
+
+</Project>

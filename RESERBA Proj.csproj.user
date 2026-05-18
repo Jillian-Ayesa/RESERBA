@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\John Vincent Doria\Downloads\RESERBA_Solution\RESERBA_Solution\RESERBA Proj\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\EstimatedDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\EstimatedDuration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\SlotButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AAdmin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AAdmin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AAdmin3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ABDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ADashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Map\BAMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Map\BBMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Map\BCMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Map\BDMaps.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPaymentLater.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPaymentNowA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPaymentNowB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPaymentNowVIPA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Payment\EAPaymentNowVIPB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Startup\AAAStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Startup\AABStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Startup\AACStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\AB_User1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\AB_User2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\AB_User4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\AB_User5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\AB_User6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\DAVIP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\User\Information.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
