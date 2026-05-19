@@ -41,7 +41,7 @@ The main goal of **RESERBA** is to completely eliminate the hassle of searching 
 
 ## 🗺️ UML Diagram
 <div align="center">
-<img src="static/UML Diagram.png" width="800" alt="UML"/>
+<img width="1272" height="1324" alt="Image" src="https://github.com/user-attachments/assets/ac6f2b24-8e97-418a-b9bc-5175e030563a" />
 </div>
 
 
