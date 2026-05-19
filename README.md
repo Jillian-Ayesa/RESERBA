@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="static/RESERBA LOGO.png" width="1500" height="1500" alt="RESERBA Logo"/>
-
+<img width="728" height="184" alt="Image" src="https://github.com/user-attachments/assets/fe7def50-bbbe-4e9f-ae94-63bf378a9f63" />
 <BR>
 <BR>
 
